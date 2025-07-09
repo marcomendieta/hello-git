@@ -1,1 +1,1 @@
-Read me for hello git
+Esta es una lista de participantes del curso de git
