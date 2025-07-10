@@ -1,1 +1,1 @@
-Read me for hello git
+Lista de los participantes del curso de GIT y GITHUB
