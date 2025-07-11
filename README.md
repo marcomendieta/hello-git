@@ -3,4 +3,4 @@ Marco Mendieta
 Robert Claros 
 Lucia Lopez T. - Sport: Chess - Food: Fish
 Laura Flores LL. - FavoriteSport: Tenis - Food: Pique - Dessert: Pie
-Daniela Maranon
+Daniela Maranon - Sport: Natacion - Food: Lasaña - Dessert: Tiramisu
