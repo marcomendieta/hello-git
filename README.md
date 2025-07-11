@@ -3,6 +3,4 @@ Marco Mendieta
 Robert Claros 
 Lucia Lopez T. - Sport: Chess - Food: Fish
 Laura Flores LL. - FavoriteSport: Tenis - Food: Pique - Dessert: Pie
-
-
-
+Carolina
