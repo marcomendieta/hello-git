@@ -4,5 +4,6 @@ Robert Claros
 Lucia Lopez T. - Sport: Chess - Food: Fish
 Laura Flores LL. - FavoriteSport: Tenis - Food: Pique - Dessert: Pie
 Wilma2 Luizaga -Deporte: Natacion -Comida: Chicharron
+Wilma Herbas
 
 
